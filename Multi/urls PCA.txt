@@ -1,0 +1,4 @@
+https://www.datacamp.com/tutorial/pca-analysis-r
+https://www.sthda.com/english/web/5-bookadvisor/50-practical-guide-to-principal-component-methods-in-r
+https://en.wikipedia.org/wiki/Matrix_normal_distribution
+https://www.sthda.com/english/wiki/fviz-cos2-quick-visualization-of-the-quality-of-representation-of-rows-columns-r-software-and-data-mining?title=fviz-cos2-quick-visualization-of-the-quality-of-representation-of-rows-columns-r-software-and-data-mining
