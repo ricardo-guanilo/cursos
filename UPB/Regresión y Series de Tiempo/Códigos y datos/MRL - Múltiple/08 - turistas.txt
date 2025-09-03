@@ -1,0 +1,6 @@
+turistas ingreso distancia
+18 5 17
+25 10 15
+7 2 32
+12 4 25
+19 6 20
